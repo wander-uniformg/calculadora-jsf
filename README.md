@@ -1,4 +1,4 @@
-# Projeto de uma calculadora básica usando JSF - 2023
+# Projeto de uma calculadora básica usando JSF - 2023 - Atualizado
 
 ### Requisitos:
 
